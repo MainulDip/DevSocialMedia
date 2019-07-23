@@ -1,6 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://mainuldip:mainuldip@socialdevbook-qude2.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken",
-    "githubClientId": "b1a16ab3103cc0d43697",
-    "githubSecret": "4e9f80dcefb9ff16426b1bc4916fcffde15de31a"
-}
